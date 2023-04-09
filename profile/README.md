@@ -48,6 +48,26 @@ Des exercices d’évaluation formative sont aussi prévus tout au long de la se
 
 ## Évaluations
 
+### Travail pratique 1 (30%)
+
+> Énoncé : Cours 6 \
+> Remise : 2 semaines plus tard
+
+Produire une application dynamique à l’aide de JavaScript utilisant la programmation orientée objet. 
+
+### Travail pratique 2 (35%)
+
+> Énoncé : Cours 15 \
+> Remise : 2 semaines plus tard
+
+Réaliser un site Web utilisant des requêtes asynchrones et un gestionnaire d’interfaces.
+
+### Épreuve finale (35%)
+
+> Date : Cours 20
+
+Produire une interface Web à l’aide d’une programmation orientée objet qui fait la gestion d’éléments et d’événement DOM ainsi que le traitement côté client de réponses serveur synchrones et asynchrones.
+
 ## Calendrier des activités
 
 ### Partie 1 : Programmer une interface animée et interactive en suivant un patron de conception orientée objet (21 heures)
