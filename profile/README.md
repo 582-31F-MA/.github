@@ -85,8 +85,8 @@ Tout au long de ces étapes, l’étudiant·e apprend à respecter les normes de
 À la deuxième étape, l’étudiant·e apprend à créer des requêtes de données asynchrones et à en faire la gestion. Il ou elle est introduit·e aux méthodes de gestion des états de l’interface, à l’insertion dynamique des données et à la communication asynchrone avec un serveur Web. Il ou elle apprend à valider correctement les données envoyées provenant des formulaires et à mettre à jour l’interface en fonction des données reçues. De plus, il ou elle est introduit aux principes des interfaces Web complexes tel que la gestion d’états (state management), le routage et les moteurs de gabarit. À la fin de cette étape, l’étudiant·e est en mesure de programmer une interface Web animée et interactive basée sur des données asynchrones, en faire le traitement et mettre à jour l’interface en fonction de celles-ci.
 
 - Cours 8–10 : Requêtes et traitement asynchrones
-- Cours 11–13 Gestion de l’état d’une interface et routage
-- Cours 14–15 Moteur de gabarit
+- Cours 11–13 : Gestion de l’état d’une interface et routage
+- Cours 14–15 : Moteur de gabarit
 
 ### Partie 3 : Programmer une interface animée et interactive intégrant des données asynchrones à l’aide de bibliothèques de code externe (15 heures)
 
