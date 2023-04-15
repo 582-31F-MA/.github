@@ -53,14 +53,14 @@ Des exercices d’évaluation formative sont aussi prévus tout au long de la se
 > Énoncé : Cours 6 \
 > Remise : Cours 10
 
-Produire une application dynamique à l’aide de JavaScript en utilisant la programmation orientée objet. 
+Produire un site Web en utilisant la programmation orientée objet. 
 
 ### Travail pratique 2 (35%)
 
 > Énoncé : Cours 15 \
 > Remise : Cours 19
 
-Réaliser un site Web utilisant des requêtes asynchrones et un gestionnaire d’interfaces.
+Réaliser un site Web en utilisant des requêtes asynchrones et un gestionnaire d’interfaces.
 
 ### Épreuve finale (35%)
 
