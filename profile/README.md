@@ -57,8 +57,8 @@ Produire un site Web en utilisant la programmation orientée objet.
 
 ### Travail pratique 2 (35%)
 
-> Énoncé : Cours 15 \
-> Remise : Cours 19
+> Énoncé : Cours 14 \
+> Remise : Cours 18
 
 Réaliser un site Web en utilisant des requêtes asynchrones et un gestionnaire d’interfaces.
 
