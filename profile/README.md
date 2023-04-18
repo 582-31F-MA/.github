@@ -48,7 +48,7 @@ Des exercices d’évaluation formative sont aussi prévus tout au long de la se
 
 ## Évaluations
 
-### Travail pratique 1 (30%)
+### Travail pratique 1 (35%)
 
 > Énoncé : Cours 6 \
 > Remise : Cours 10
@@ -62,7 +62,7 @@ Produire un site Web en utilisant la programmation orientée objet.
 
 Réaliser un site Web en utilisant des requêtes asynchrones et un gestionnaire d’interfaces.
 
-### Épreuve finale (35%)
+### Épreuve finale (30%)
 
 > Date : Cours 20
 
